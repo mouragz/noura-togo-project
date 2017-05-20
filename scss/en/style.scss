@@ -1,0 +1,11 @@
+@import "../shared/base";
+
+body {
+  background-color:aquamarine;
+  text-align: center;
+  > #container {
+    text-align:left;
+    margin:0 auto;
+    width:500px;
+  }
+}

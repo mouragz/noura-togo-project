@@ -1,0 +1,20 @@
+{
+  "name": "noura-togo-project",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Noura G. Zoubi <nzoubi@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
